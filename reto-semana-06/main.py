@@ -2,7 +2,7 @@ import re
 from typing import Dict, List
 from datetime import datetime
 
-DEPARTAMENTOS_VALIDOS = ['VEN', 'ADM', 'TEC', 'LOG', 'RHH']
+DEPARTAMENTOS_VALIDOS  = ['VEN', 'ADM', 'TEC', 'LOG', 'RHH']
 SERIES_VALIDAS = ['A', 'B', 'C', 'D', 'E']
 
 def validar_producto(codigo: str) -> Dict:
