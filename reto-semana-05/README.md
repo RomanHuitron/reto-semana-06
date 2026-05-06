@@ -62,6 +62,3 @@ El perfil generado contiene las siguientes columnas:
 ## Autor
 
 [Huitron Carranco Jose Roman] - Febrero 2026
-'''
-
-print(readme_requerido)
